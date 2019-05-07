@@ -44,8 +44,10 @@ At the end, boss is not happy, he loses users and developers (motivation). :cry:
 `Not the UI (View) part.`
 
 As a developer you can use your favorite langauge and native SDKs.
-A big part of the project can be shared (code and test). 
+A big part of the project can be shared (business logic and test). 
+
 Users are :smiley:, developers are :smiley:, boss is :smiley:. 
+
 All good. :sunglasses: :clap:
 
 
