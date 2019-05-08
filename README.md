@@ -51,9 +51,16 @@ Users are :smiley:, developers are :smiley:, boss is :smiley:.
 All good. :sunglasses: :clap:
 
 
+
+## Getting started
+
+
+You can find the documentation in the [Wiki](https://github.com/makeitappen/MPA/wiki).
+
 ### Todo
 
 - [x] Write introduction
+- [x] Write Project setup wiki page
 - [ ] Finalize architecture
 - [ ] Create sample project
 - [ ] Create 'framework'
