@@ -1,5 +1,5 @@
-# MPF
-Multi platform framework
+# MPA
+Multi platform architecture
 
 
 ## Problem
