@@ -57,10 +57,11 @@ All good. :sunglasses: :clap:
 
 You can find the documentation in the [Wiki](https://github.com/makeitappen/MPA/wiki).
 
-
+<!--
 ## Sample project
 
 The [Bran](https://github.com/makeitappen/bran) project is a sample iOS and Android app, using MPA.
+-->
 
 ### Todo
 
